@@ -1,6 +1,6 @@
 {
-    "version": "v0.0.3",
-    "url": "https://github.com/iSoBored/terraform_manager/releases/download/windows/v0.0.3/Terraformx.exe",
-    "hash": "45bc1b0a5ee6c4eb33f3a5c92d3153b20f23e100653d69e9d04576842b95bdf2",
+    "version": "v0.0.1",
+    "url": "https://github.com/iSoBored/terraform_manager/releases/download/windows/v0.0.1/terraformx.exe",
+    "hash": "9089adb22042481bad2454e2babbcba1c917e7c9fddf0cf02a0db50d99c97ffd",
     "bin": "terraformx.exe"
 }
