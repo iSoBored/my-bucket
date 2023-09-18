@@ -1,0 +1,10 @@
+# About
+This repo contains a terraformx manifest for Scoop.
+## Adding this bucket to Scoop
+To add the bucket, run `scoop bucket add <name> https://github.com/iSoBored/my-bucket`
+## Installing terraformx
+To install terraformx, run `scoop install terraformx`
+## Uninstalling terraformx
+To uninstall terraformx, run `scoop uninstall terraformx`
+## Removing this bucket from Scoop
+To remove the bucket, run `scoop bucket rm <name>`
