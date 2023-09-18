@@ -1,5 +1,5 @@
 # About
-This repo contains a terraformx manifest for Scoop.
+This repo contains a terraformx manifest for [Scoop](https://scoop.sh).
 ## Adding this bucket to Scoop
 To add the bucket, run `scoop bucket add <name> https://github.com/iSoBored/my-bucket`
 ## Installing terraformx
